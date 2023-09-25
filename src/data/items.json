@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "name": "Mobile",
+        "price": 200,
+        "imgUrl": "/imgs/mobile.jpg",
+        "details":"New smart phone comes with great features"
+    },
+    
+    {
+        "id": 2,
+        "name": "Laptop",
+        "price": 1500,
+        "imgUrl": "/imgs/laptop.jpg",
+        "details":"If you are a developer. you will love apple Macbook"
+    },
+    {
+        "id": 3,
+        "name": "Book",
+        "price": 5,
+        "imgUrl": "/imgs/book.jpg",
+        "details":"We have great collection of books"
+    },
+    {
+        "id": 4,
+        "name": "Chair",
+        "price": 105,
+        "imgUrl": "/imgs/chair.jpg",
+        "details":"A comfortable chair is a most for your work"
+    }
+]
