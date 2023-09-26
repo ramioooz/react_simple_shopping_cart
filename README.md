@@ -9,6 +9,9 @@ I used the following technologies/libraries to build this app.
 - React-Router-Dom
 - React-BootStrap
 
+a working demo is here:
+https://react-simple-shopping-cart.portfolio.rami.sd/
+
 You are welcome to fork/reuse the project.
 
 Thank You.
